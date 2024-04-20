@@ -1,9 +1,9 @@
-# Ruby on Rails gRPC Example
+# Ruby on Rails gRPC
 
 This is an example Ruby on Rails application that demonstrates how to use gRPC in a Rails project.
 
 ## Prerequisites
-* Docker 20 or higher
+* Docker 20.0 or higher
 * Docker Compose 1.29 or higher
 * Ruby 3.1.2 or higher
 * Rails 7.0.3 or higher
